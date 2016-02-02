@@ -3,7 +3,6 @@ dependencies:
 - role: colstrom.fish
 - role: colstrom.emacs-snapshot
 - role: colstrom.silversearcher
-  silversearcher_emacs_integration: yes
 galaxy_info:
   author: "Chris Olstrom"
   description: "Installs Chris Olstrom onto a system and makes it cozy for him."
